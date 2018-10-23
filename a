@@ -1,0 +1,85 @@
+{
+  "data" : {
+    "attributes" : {
+      "alternateId" : "hverdagens-helte",
+      "analyticsId" : "dplaydk_26",
+      "customAttributes" : { },
+      "description" : "I denne dokumentarserie følger vi dagligdagen for ambulance- og brandfolkene fra Falck stationen i Gladsaxe. På tætteste hold følger vi deres arbejde og kammeratskab og er med, når jobbet byder på spændende oplevelser, men også når livets barske realiteter påvirker dem menneskeligt. I det første program følger vi brandfolkene, som bliver kaldt ud til en patruljevogn, der er kørt galt.",
+      "episodeCount" : 30,
+      "geoRestrictions" : {
+        "countries" : [ "dk", "se", "fi", "ax", "no", "gl", "fo" ],
+        "mode" : "permit"
+      },
+      "hasExpiringEpisodes" : false,
+      "hasNewEpisodes" : false,
+      "name" : "Hverdagens helte",
+      "newestEpisodePublishStart" : "2012-12-17T04:00:00Z",
+      "seasonNumbers" : [ 1, 2, 3, 4, 5 ],
+      "videoCount" : 30,
+      "webExclusive" : false
+    },
+    "id" : "26",
+    "relationships" : {
+      "contentPackages" : {
+        "data" : [ {
+          "id" : "Premium",
+          "type" : "package"
+        }, {
+          "id" : "Free",
+          "type" : "package"
+        } ]
+      },
+      "genres" : {
+        "data" : [ {
+          "id" : "5",
+          "type" : "genre"
+        }, {
+          "id" : "15",
+          "type" : "genre"
+        } ]
+      },
+      "images" : {
+        "data" : [ {
+          "id" : "content-image-357",
+          "type" : "image"
+        } ]
+      },
+      "primaryChannel" : {
+        "data" : {
+          "id" : "9",
+          "type" : "channel"
+        }
+      },
+      "seasons" : {
+        "data" : [ {
+          "id" : "3527",
+          "type" : "season"
+        }, {
+          "id" : "3473",
+          "type" : "season"
+        }, {
+          "id" : "3518",
+          "type" : "season"
+        }, {
+          "id" : "3512",
+          "type" : "season"
+        }, {
+          "id" : "3454",
+          "type" : "season"
+        } ]
+      }
+    },
+    "type" : "show"
+  },
+  "included" : [ {
+    "attributes" : {
+      "height" : 900,
+      "kind" : "default",
+      "src" : "https://eu1-prod-images.disco-api.com/2017/07/13/show-26-1499934780414.jpg",
+      "width" : 1600
+    },
+    "id" : "content-image-357",
+    "type" : "image"
+  } ],
+  "meta" : { }
+}
