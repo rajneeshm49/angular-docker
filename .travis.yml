@@ -6,4 +6,4 @@ before_install:
   - docker build -t rajneeshm49/angular-docker -f Dockerfile.dev .
 
 script:
-  - docker run rajneeshm49/angular-docker ng test -- --coverage
+  - docker run rajneeshm49/angular-docker ng test --watch false
