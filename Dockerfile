@@ -28,6 +28,5 @@ RUN ng build
 
 FROM nginx
 COPY --from=builder /usr/src/app/dist/*    /usr/share/nginx/html
-
 EXPOSE 80
 
